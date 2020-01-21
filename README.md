@@ -49,3 +49,6 @@ macOS Catalina 10.15.1 (19B88)
 ![概览](screenshots/overview.png)
 
 ![桌面](screenshots/desktop.png)
+
+## 参考:
+[Common Problems and Workarounds in Hackintosh](https://medium.com/@ayushere/common-problems-and-workarounds-in-hackintosh-85d76ad89d24)
