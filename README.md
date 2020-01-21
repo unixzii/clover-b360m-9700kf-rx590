@@ -1,11 +1,24 @@
-# 我的 Clover EFI + 配置
+# Clover EFI + 我的配置
+
+## 完美程度:
+
+* **板载声卡:** 正常
+* **板载网卡:** 正常
+* **睡眠/关机:** 正常
+* **AirPlay Mirror:** 正常
+* **iCloud:** 正常
+* **GPU 硬解:** 无核显硬解加速, 独立显卡 GPU 负荷正常
+* **USB:** 外置硬盘, 打印机均正常
+* **NTFS 读写:** 配合 Tuxera NTFS 可以正常挂载读写
+* **虚拟机支持:** PD 14 运行 Windows 10 正常
+* **稳定性:** Final Cut Pro, After Effects 偶现 GPU 驱动的 crash, 暂无五国, 黑屏等问题
 
 ## 主机配置:
 
 * **主板:** GIGABYTE (技嘉) B360M DS3H
 * **处理器:** Intel i7 9700KF
 * **闪存:** Corsair (海盗船) 单条 16 GB, DDR4 3000 MHz
-* **视频卡:** 蓝宝石 AMD Radeon RX590, 8 GB 闪存
+* **显卡:** 蓝宝石 AMD Radeon RX590, 8 GB 闪存
 * **固态硬盘:** Western Digital (西部数据) 黑盘 NVMe 250 GB
 * **机械硬盘:** Seagate (希捷) 1 TB, 7200 转 **x2**
 
